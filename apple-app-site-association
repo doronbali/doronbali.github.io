@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "3PHXS7X29F.com.att.osd.myWireless",
+        "paths": [
+          "/buy/phones/*"
+        ]
+      },
+      {
+        "appID": "3PHXS7X29F.com.att.test.myatt",
+        "paths": [
+          "/buy/phones/*"
+        ]
+      },
+      {
+        "appID": "773Q4FCUCP.com.att.tlv.myatt",
+        "paths": [
+          "/buy/phones/*"
+        ]
+      }
+    ]
+  }
+}
