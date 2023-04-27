@@ -1,27 +1,25 @@
 {
   "applinks": {
-      "apps": [],
-      "details": [
-                      {
-                          "appID": "3PHXS7X29F.com.att.osd.myWireless",
-                          "paths": ["/buy/phones/sonim-xp5s.html"]
-                      },
-                      {
-                          "appID": "3PHXS7X29F.com.att.test.myatt",
-                          "paths": ["/buy/phones/sonim-xp5s.html"]
-                      },
-                      {
-                          "appID": "com.att.tlv.myatt",
-                          "paths": ["/buy/phones/sonim-xp5s.html"]
-                      },
-                      {
-                          "appID": "773Q4FCUCP.com.att.tlv.myatt",
-                          "paths": ["/buy/phones/sonim-xp5s.html"]
-                      },
-                      {
-                          "appID": "773Q4FCUCP.com.att.osd.myWireless",
-                          "paths": ["/buy/phones/sonim-xp5s.html"]
-                      }
-              ]
+    "apps": [],
+    "details": [
+      {
+        "appID": "3PHXS7X29F.com.att.osd.myWireless",
+        "paths": [
+          "/myatt/native/*"
+        ]
+      },
+      {
+        "appID": "3PHXS7X29F.com.att.test.myatt",
+        "paths": [
+          "/myatt/native/*"
+        ]
+      },
+      {
+        "appID": "773Q4FCUCP.com.att.tlv.myatt",
+        "paths": [
+          "/myatt/native/*"
+        ]
+      }
+    ]
   }
 }
