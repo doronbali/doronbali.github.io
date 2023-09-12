@@ -1,17 +1,23 @@
 {
   "applinks": {
+    "apps": [],
     "details": [
       {
-        "appIDs": [
-        "59VRZ7SK7C.com.att.cso.consumer.Halo-C-TestApp",
-        "9Z638VP7G7.com.att.cso.consumer.Halo-C-TestApp2",
-        "3PHXS7X29F.com.att.test.myatt",
-        "773Q4FCUCP.com.att.tlv.myatt"],
-        "components": [
-                {
-                        "/": "/*",
-                        "comment": "Matches every URL."
-                }
+        "appID": "3PHXS7X29F.com.att.osd.myWireless",
+        "paths": [
+          "/rr/*"
+        ]
+      },
+      {
+        "appID": "3PHXS7X29F.com.att.test.myatt",
+        "paths": [
+          "/rr/*"
+        ]
+      },
+      {
+        "appID": "773Q4FCUCP.com.att.tlv.myatt",
+        "paths": [
+          "/rr/*"
         ]
       }
     ]
