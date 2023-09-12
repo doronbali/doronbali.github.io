@@ -5,19 +5,19 @@
       {
         "appID": "3PHXS7X29F.com.att.osd.myWireless",
         "paths": [
-          "/rr/*"
+          "/buy/*"
         ]
       },
       {
         "appID": "3PHXS7X29F.com.att.test.myatt",
         "paths": [
-          "/rr/*"
+          "/buy/*"
         ]
       },
       {
         "appID": "773Q4FCUCP.com.att.tlv.myatt",
         "paths": [
-          "/rr/*"
+          "/buy/*"
         ]
       }
     ]
