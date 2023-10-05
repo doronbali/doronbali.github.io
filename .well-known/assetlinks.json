@@ -1,8 +1,8 @@
 [
   {
-    "relation": 
+    "relation": [
       "delegate_permission/common.handle_all_urls"
-    ,
+    ],
     "target": {
       "namespace": "android.app.link.DOMAIN",
       "package_name": "com.att.myWirelessTest",
