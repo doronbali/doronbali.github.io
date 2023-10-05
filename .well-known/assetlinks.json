@@ -4,9 +4,8 @@
       "delegate_permission/common.handle_all_urls"
     ],
     "target": {
-      "namespace": "android.app.link.DOMAIN",
+      "namespace": "android_app",
       "package_name": "com.att.myWirelessTest",
-      "site": "https://gh.doronbali.com",
       "sha256_cert_fingerprints": [
         "70:A3:94:C7:C1:95:18:44:CC:FF:CD:A5:32:09:13:0B:3C:DB:82:69:C1:23:B8:08:75:04:9F:AD:DF:70:50:EC",
         "C4:5A:9B:10:01:6E:A5:63:9C:39:09:48:E1:07:B6:40:D1:D3:8B:C2:5D:04:48:C8:4D:8E:E9:17:7A:AD:F7:A2",
